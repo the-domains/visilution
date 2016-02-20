@@ -1,0 +1,28 @@
+name: Visilution
+favicon: null
+layout_spectrum: 0.8269328062888235
+typography_spectrum: 0.32837889180518687
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5198769066482782
+  lightness: 0.6202151591423899
+  saturation: 0.21925508324056864
+  rhythmicContrast: 0.5928666153922677
+purpose: []
